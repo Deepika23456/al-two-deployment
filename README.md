@@ -3,7 +3,7 @@
 Predicts a student's final exam score and grade from study time, attendance,
 sleep, previous grade and background details.
 
-🔗 **Live app:** YOUR-LINK-HERE
+🔗 **Live app:** https://al-two-deployment-ydp8actukappggy3f7sxgst.streamlit.app/
 
 ## Tech stack
 Python, pandas, scikit-learn (Gradient Boosting), Streamlit
